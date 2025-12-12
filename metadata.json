@@ -1,0 +1,8 @@
+{
+  "name": "Kizuna Creator",
+  "description": "Create and manage AI character stories. Upload videos, define ideas, and let AI generate the rest.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
